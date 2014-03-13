@@ -1,4 +1,4 @@
 zkclient
 ========
 
-a light zookeeper client 
+a lightweight zookeeper client 
